@@ -17,5 +17,6 @@
 
 
 ## Reference
-- https://www.youtube.com/watch?v=woHxvbBLarQ
-- https://www.kaggle.com/code/kenjee/cross-validation-foundations-section-8/notebook
+- Google Colab Short Intro: https://www.youtube.com/watch?v=woHxvbBLarQ
+- Inspiration: https://www.kaggle.com/code/kenjee/cross-validation-foundations-section-8/notebook
+- Data Set: https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data
